@@ -1,13 +1,19 @@
 
-import Link from "next/link";
+// components/NavBar.js
+import Link from 'next/link';
 
-export default function Navbar() {
+export default function NavBar() {
   return (
-    <nav className="bg-purple-700 text-white px-6 py-3 flex justify-between items-center">
-      <h1 className="text-xl font-bold">The Finder</h1>
-      <div className="space-x-4">
-        <Link href="/login">Login</Link>
-        <Link href="/signup">Sign Up</Link>
+    <nav style={{
+      display: 'flex',
+      justifyContent: 'space-between',
+      padding: '1rem',
+      backgroundColor: '#eee',
+    }}>
+      <Link href="/" style={{ marginRight: '1rem' }}>Home</Link>
+      <div>
+        <Link href="/login" style={{ marginRight: '1rem' }}>Login</Link>
+        <Link href="/signup" style={{ marginRight: '1rem' }}>Signup</Link>
         <Link href="/saved">Saved</Link>
       </div>
     </nav>
