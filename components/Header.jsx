@@ -1,4 +1,4 @@
-import React, { useState } from 'react"
+import React, { useState } from 'react'
 import { Flex, Input, InputGroup, InputRightElement, Menu, MenuButton, MenuItem, MenuList, SimpleGrid, Text } from '@chakra-ui/react'
 import { Autocomplete} from '@react-google-maps/api'
 import { BiChevronDown, BiHotel, BiMapAlt, BiRestaurant, BiSearch, BiStar } from "react-icons/bi"
