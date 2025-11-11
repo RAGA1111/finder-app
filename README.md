@@ -1,5 +1,5 @@
 # 🚀 Next.js Starter Project
-
+*
 This project was bootstrapped with [**Create Next App**](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ---
@@ -48,4 +48,5 @@ Framework: Next.js
 ## Styling: CSS / Tailwind / Styled Components (optional)
 
 ## Deployment: Vercel
+
 
