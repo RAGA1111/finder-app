@@ -4,7 +4,9 @@ This project was bootstrapped with [**Create Next App**](https://github.com/verc
 
 ---
 
+## 🛠️ Getting Started
 
+### 1. Run the development server
 
 ```bash
 npm run dev
@@ -46,6 +48,7 @@ Framework: Next.js
 ## Styling: CSS / Tailwind / Styled Components (optional)
 
 ## Deployment: Vercel
+
 
 
 
