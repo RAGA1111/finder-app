@@ -47,7 +47,8 @@ Framework: Next.js
 
 ## Styling: CSS / Tailwind / Styled Components (optional)
 
-## Deployment: Vercel.
+## Deployment: Vercel
+
 
 
 
