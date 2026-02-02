@@ -35,7 +35,7 @@ Here are some helpful resources to dive deeper into Next.js:
 
 ## 💻 Next.js GitHub Repository — Contribute and explore the source code.
 
-## 🌐 Deployment
+## 🌐 Deployment 
 The easiest way to deploy your Next.js app is using Vercel, the creators of Next.js.
 
 For detailed deployment instructions, see the Next.js Deployment Docs.
@@ -48,6 +48,7 @@ Framework: Next.js
 ## Styling: CSS / Tailwind / Styled Components (optional)
 
 ## Deployment: Vercel
+
 
 
 
