@@ -11,7 +11,7 @@ This project was bootstrapped with [**Create Next App**](https://github.com/verc
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev 
 # or
 pnpm dev
 Once the server is running, open your browser and visit:
@@ -48,6 +48,7 @@ Framework: Next.js
 ## Styling: CSS / Tailwind / Styled Components (optional)
 
 ## Deployment: Vercel
+
 
 
 
